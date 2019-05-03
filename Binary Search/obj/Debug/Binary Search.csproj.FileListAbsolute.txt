@@ -1,0 +1,7 @@
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\obj\Debug\Binary Search.csprojAssemblyReference.cache
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\bin\Debug\Binary Search.exe.config
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\bin\Debug\Binary Search.exe
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\bin\Debug\Binary Search.pdb
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\obj\Debug\Binary Search.exe
+\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\obj\Debug\Binary Search.pdb
