@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8B38447C-9CEB-4E2A-B174-02D92409C54D}</ProjectGuid>
+    <ProjectGuid>{4EF51AB0-C6D5-487D-9B8B-06027204D7EE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Searching_Algorithms</RootNamespace>
-    <AssemblyName>Searching Algorithms</AssemblyName>
+    <RootNamespace>Linear_Search</RootNamespace>
+    <AssemblyName>Linear Search</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

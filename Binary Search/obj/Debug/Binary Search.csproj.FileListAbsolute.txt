@@ -5,3 +5,7 @@
 \\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\bin\Debug\Binary Search.pdb
 \\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\obj\Debug\Binary Search.exe
 \\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Binary Search\obj\Debug\Binary Search.pdb
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.csprojAssemblyReference.cache
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.exe
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.pdb

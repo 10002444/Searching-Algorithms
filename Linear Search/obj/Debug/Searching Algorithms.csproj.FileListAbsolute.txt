@@ -1,7 +1,0 @@
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\bin\Debug\Searching Algorithms.exe.config
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\bin\Debug\Searching Algorithms.exe
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\bin\Debug\Searching Algorithms.pdb
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\obj\Debug\Searching Algorithms.csprojAssemblyReference.cache
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\obj\Debug\Searching Algorithms.csproj.CoreCompileInputs.cache
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\obj\Debug\Searching Algorithms.exe
-\\FS\STUDENT$\10002444\Desktop\6211 - Jacob\Searching Algorithms\Searching Algorithms\obj\Debug\Searching Algorithms.pdb

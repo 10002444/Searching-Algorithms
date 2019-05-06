@@ -1,0 +1,6 @@
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Linear Search\bin\Debug\Linear Search.exe.config
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Linear Search\bin\Debug\Linear Search.exe
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Linear Search\bin\Debug\Linear Search.pdb
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Linear Search\obj\Debug\Linear Search.csproj.CoreCompileInputs.cache
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Linear Search\obj\Debug\Linear Search.exe
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Linear Search\obj\Debug\Linear Search.pdb
