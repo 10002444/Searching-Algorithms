@@ -9,3 +9,6 @@ H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Sear
 H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
 H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.exe
 H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\obj\Debug\Binary Search.pdb
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\bin\Debug\Binary Search.exe.config
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\bin\Debug\Binary Search.exe
+H:\Desktop\6211 - Jacob\Searching-Algorithms\Binary Search\bin\Debug\Binary Search.pdb

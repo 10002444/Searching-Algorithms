@@ -10,16 +10,14 @@ namespace Binary_Search
     {
         static void Main(string[] args)
         {
-            Array.Sort(arr);
-
-
             /*Create an array of random ints*/
             int[] nums = new int[100000];
             Random rand = new Random();
             for (int i = 0; i < nums.Length; i++)
             {
                 nums[i] = rand.Next(100000);
-            };
+            }
+            Array.Sort(nums);
 
             foreach (int x in nums)
                 Console.Write(x + " ");
